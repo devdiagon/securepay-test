@@ -1,4 +1,5 @@
-const transactionService = require('../services/transaction.monolith.service');
+//const transactionService = require('../services/transaction.monolith.service');
+const transactionService = require('../services/transaction.service');
 
 /**
  * Endpoint para obtener el saldo actual de una cuenta (Alpha).
